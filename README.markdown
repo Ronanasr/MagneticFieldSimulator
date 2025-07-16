@@ -64,7 +64,6 @@ Below are examples of the generated plots for a loop with radius 1 m and current
 **Field Map in xz-plane**:
 ![Field Map xz Plot](field_map_xz_plot.png)
 
-*(Note: Add screenshots of the plots by running the script and uploading the generated PNG files to the repository.)*
 
 ## Code Explanation
 - **Function**: `biot_savart_integrand(theta, R, I, obs_point)`
